@@ -25,3 +25,9 @@ pnpm-debug.log*
 
 #Secret
 .env
+
+#dependencias
+package-lock.json
+
+#dependencias
+package-lock
