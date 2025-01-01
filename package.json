@@ -4,9 +4,11 @@
   "description": "Sistema de inventarios con Astro, PostgreSQL y Firebase Auth.",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "serve": "astro preview"
+    "preview": "astro preview"
   },
   "dependencies": {
     "@astrojs/node": "^2.0.0",
